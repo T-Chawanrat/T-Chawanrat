@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Chawanrat Chiarawatthanakun  
 
 💻 **Junior Full Stack Developer** | 🌱 Currently learning React, Node.js, and API Development  
-🚀 **Goal:** Improve my skills and find a suitable job in Web Development  
+🚀 **Goal:** To grow as a web developer and contribute to meaningful projects while continuously improving my skills.  
 🎯 **Tech Stack:** React.js, Node.js, Express.js, SQL, Tailwind CSS, Docker, Git, Prisma ORM  
 
 ---
