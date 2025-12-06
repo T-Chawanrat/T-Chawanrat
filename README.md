@@ -43,6 +43,9 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-Chawanrat&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical)  
+![Metrics](https://github.com/T-Chawanrat/T-Chawanrat/blob/main/github-metrics.svg)
+![GitHub Streak](https://streak-stats.demolab.com/?user=T-Chawanrat&theme=radical)
+
 
 ---
 
