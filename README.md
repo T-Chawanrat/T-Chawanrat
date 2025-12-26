@@ -40,7 +40,7 @@
 
 **Tools**
 - Git, GitHub  
-- Docker (used for development and deployment workflows)  
+- Docker
 
 ---
 
