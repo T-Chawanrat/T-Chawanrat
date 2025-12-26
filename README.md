@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Chawanrat Chiarawatthanakun (Thip)
+### 👋 Hi, I'm Chawanrat Chiarawatthanakun
 
 💻 **Full Stack Developer**  
 🔧 Focused on building, deploying, and maintaining production-ready web systems  
