@@ -34,8 +34,7 @@
 - Linux VPS setup & maintenance  
 - Nginx reverse proxy, SSL & domain management  
 - Environment variables & secrets management  
-- Production deployment & system updates  
-- Docker  
+- Production deployment & system updates 
 
 **Tools**  
 - Git, GitHub  
