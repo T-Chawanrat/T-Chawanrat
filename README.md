@@ -1,50 +1,63 @@
-### 👋 Hi, I'm Chawanrat Chiarawatthanakun
+## 👋 Hello, I'm **Chawanrat Chiarawatthanakun**
 
 💻 **Full Stack Developer**  
-🔧 Focused on building, deploying, and maintaining production-ready web systems  
-🎯 Strong emphasis on API design, system reliability, and database-driven applications
+📍 Nonthaburi, Thailand  
+
+I am a Full Stack Developer with experience in building, deploying, and maintaining web applications end-to-end.  
+I work across frontend, backend, database, and server environments, focusing on clean code, performance, and system stability.
 
 ---
 
-## 🧠 Professional Summary
-- Full Stack Developer with hands-on experience in production environments  
-- Capable of owning features end-to-end, from implementation to deployment  
-- Experienced in handling frontend, backend, database, and infrastructure tasks  
-- Comfortable working with system configuration, environment management, and maintenance  
+## 🚀 Tech Stack
 
----
+### 🧩 Programming Languages
+- HTML, CSS, JavaScript, TypeScript
+- SQL
+- Node.js
 
-## 🛠️ Technical Skills
+### ⚙️ Frameworks & Libraries
+- React.js
+- Next.js
+- Express.js
+- Tailwind CSS
+- Bootstrap
 
-**Frontend**
-- React.js, Next.js  
-- TypeScript, JavaScript  
-- Tailwind CSS, Material UI  
+### 🗄️ Database & ORM
+- MySQL (Primary)
+- PostgreSQL
+- MongoDB
+- Prisma ORM
 
-**Backend**
-- Node.js, Express.js  
-- RESTful API design  
-- Authentication & authorization flows  
-- Prisma ORM  
+### 🛠️ Tools & Platforms
+- Git / GitHub
+- Postman
+- Figma
+- VS Code
+- VPS / Linux Server
+- Nginx
+- PM2
+- CI/CD
+- SSL & Reverse Proxy
 
-**Database**
-- PostgreSQL, MySQL, MongoDB  
-- Schema design and query optimization  
-
-**Deployment & Infrastructure**
-- Linux-based VPS setup and maintenance  
-- Nginx reverse proxy configuration  
-- SSL and domain management  
-- Environment variables and secrets management  
-- Production deployment and system updates  
-
-**Tools**
-- Git, GitHub  
-- Docker
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="34"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-Chawanrat&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=T-Chawanrat&theme=radical)
@@ -52,7 +65,11 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/T-Chawanrat  
-- Email: thip.113@gmail.com  
 
-⭐ Thank you for visiting my profile
+- 🌐 Portfolio: https://chawanrat-portfolio.vercel.app  
+- 💼 GitHub: https://github.com/T-Chawanrat  
+- 📧 Email: **thip.113@gmail.com**
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
