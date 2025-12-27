@@ -17,9 +17,9 @@
 ## 🛠️ Technical Skills
 
 **Frontend**  
-- React.js, Next.js (Food Saver & Pet Store web apps)  
+- React.js, Next.js  
 - TypeScript, JavaScript  
-- Tailwind CSS, Material UI  
+- Tailwind CSS, Bootstrap
 
 **Backend**  
 - Node.js, Express.js  
@@ -27,7 +27,7 @@
 - Prisma ORM  
 
 **Database**  
-- PostgreSQL, MySQL, MongoDB  
+- MySQL, PostgreSQL, MongoDB  
 - Schema design & query optimization  
 
 **Deployment & Infrastructure**  
