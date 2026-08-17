@@ -42,11 +42,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical)
-
-![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=T-Chawanrat&theme=radical)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical&langs_count=8)   ![GitHub Streak](https://streak-stats.demolab.com?user=T-Chawanrat&theme=radical)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
