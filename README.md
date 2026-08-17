@@ -1,48 +1,51 @@
 ### 👋 Hi, I'm Chawanrat
 
 💻 **Full Stack Developer**  
-🔧 Building and maintaining production-ready web apps  
-🎯 Focused on API design, system reliability & database-driven solutions
+🔧 Building and maintaining production web applications  
+🎯 Focused on backend APIs, database-driven systems, and reliable deployments
 
 ---
 
-## 🧠 Professional Summary
-- Full Stack Developer with hands-on experience in production environments  
-- End-to-end ownership: from feature implementation to deployment  
-- Skilled in frontend, backend, database, and system maintenance  
-- Comfortable with infrastructure, environment management, and scaling systems
+## 🧠 About Me
+
+- Full Stack Developer experienced in building and maintaining production systems
+- Handle development end-to-end, from frontend and backend implementation to deployment
+- Experienced with REST APIs, relational databases, authentication, and system integration
+- Comfortable managing Linux VPS environments, Nginx, SSL, and production deployments
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Frontend**  
-- React.js, Next.js  
-- TypeScript, JavaScript  
+### Frontend
+- React.js, Next.js
+- TypeScript, JavaScript
 - Tailwind CSS, Bootstrap
 
-**Backend**  
-- Node.js, Express.js  
-- RESTful API design, authentication & authorization flows  
-- Prisma ORM  
+### Backend
+- Node.js, Express.js
+- RESTful APIs
+- Authentication & Authorization
+- Prisma ORM
 
-**Database**  
-- MySQL, PostgreSQL, MongoDB  
-- Schema design & query optimization  
+### Database
+- MySQL, PostgreSQL, MongoDB
+- Database schema design
+- SQL queries & query optimization
 
-**Deployment & Infrastructure**  
-- Linux VPS setup & maintenance  
-- Nginx reverse proxy, SSL & domain management  
-- Environment variables & secrets management  
-- Production deployment & system updates 
+### Deployment & Infrastructure
+- Linux VPS
+- Nginx Reverse Proxy
+- SSL & Domain Configuration
+- Environment & Secrets Management
+- Production Deployment
 
-**Tools**  
-- Git, GitHub  
+### Tools
+- Git, GitHub
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical&langs_count=8)   ![GitHub Streak](https://streak-stats.demolab.com?user=T-Chawanrat&theme=radical)
+## ⚙️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,8 +58,18 @@
 
 ---
 
-## 📫 Contact
-- GitHub: [https://github.com/T-Chawanrat](https://github.com/T-Chawanrat)  
-- Email: thip.113@gmail.com  
 
-⭐ Thank you for visiting my profile
+## 📊 GitHub
+
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=T-Chawanrat&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=T-Chawanrat&theme=radical)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/T-Chawanrat
+- Email: thip.113@gmail.com
+
+⭐ Thanks for visiting my profile!
